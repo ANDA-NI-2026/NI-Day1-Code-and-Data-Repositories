@@ -139,7 +139,7 @@ In the following exercises you are going to create a new repository on GitHub, a
 | `git remote add origin <URL>`     | Link the local repository to a remote GitHub repository | Click **Source Control (Ctrl + Shift + G)** → Click **Publish Repository** |
 | `git push -u origin main`         | Push local commits to the remote repository and set upstream | Click **Source Control** → Click **...** → Click **Push** |
 | `git push`         | Push local commits to the remote repository (once upstream is set) | Click **Source Control** → Click **...** → Click **Push** |
-| `git pull`         | Push local commits to the remote repository (once upstream is set) | Click **Source Control** → **Synchronize Changes** (the two arrows that form a circle) |
+| `git pull`         | Pull local commits to the remote repository (once upstream is set) | Click **Source Control** → **Synchronize Changes** (the two arrows that form a circle) |
 
 
 **Exercise**: Create a new **public** repository on GitHub (**without** initializing it with README. It should be **completely** empty) and copy the clone URL. 
